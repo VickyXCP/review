@@ -85,7 +85,7 @@
   Webkit内核：Safari,Chrome等。   [ Chrome的：Blink（WebKit的分支）]
 浏览器内核的解析和对比
 
-html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？如何区分 HTML 和 HTML5？
+  17. html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？如何区分 HTML 和 HTML5？
 
   * HTML5 现在已经不是 SGML 的子集，主要是关于图像，位置，存储，多任务等功能的增加。
   	  绘画 canvas;
